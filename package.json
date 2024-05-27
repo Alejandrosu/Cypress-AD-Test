@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cypress-plugin-steps": "^1.1.1"
+  }
+}
